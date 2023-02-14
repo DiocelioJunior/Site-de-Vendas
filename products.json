@@ -1,0 +1,62 @@
+{
+	"products" : [
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "35.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.pinimg.com/564x/f1/9b/67/f19b672e32f5d44336ae2599d3df94d9.jpg",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://i.pinimg.com/564x/65/0a/cf/650acf14c7f20d96338d6d9af5957b53.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.pinimg.com/564x/59/e4/91/59e491cb616ebb24ad16b9877a283fb8.jpg",
+			"description" : "This is another fun grey T-shirt"
+		},
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "35.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.pinimg.com/564x/f1/9b/67/f19b672e32f5d44336ae2599d3df94d9.jpg",
+			"description" : "This is a very awesome grey T-shirt"
+		},
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" },
+				{ "Color" : "Blue,Red" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "https://i.pinimg.com/564x/65/0a/cf/650acf14c7f20d96338d6d9af5957b53.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Lorem ipsum dolor",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "https://i.pinimg.com/564x/59/e4/91/59e491cb616ebb24ad16b9877a283fb8.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
+	]
+}
